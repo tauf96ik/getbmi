@@ -18,8 +18,8 @@ class _HomeState extends State<Home> {
   final inactiveColor = Colors.white12;
   g? isSelected;
 
-  int weight = 60;
-  int height = 160;
+  int weight = 100;
+  int height = 360;
   int age = 25;
   String bmi = '';
 
